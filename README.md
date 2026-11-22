@@ -4,11 +4,13 @@ A tiny habit tracker: checkboxes, streaks and nothing else
 
 ## Status
 
-Planning. See [`docs/SPEC.md`](docs/SPEC.md).
+Planning. #7 of 15 in the portfolio build order (easy). See [`docs/SPEC.md`](docs/SPEC.md).
 
 ## How it makes money
 
-_TBD, see SPEC._
+- **Free:** 3 habits, with ads
+- **Paid:** £1.99/month or lifetime £7.99
+- **Ads:** Banner on stats screen only
 
 ## Run locally
 
