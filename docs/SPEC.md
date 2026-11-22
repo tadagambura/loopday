@@ -50,13 +50,15 @@ Prices are starting points; test before committing. **Portfolio premium promise:
 Follow the portfolio guardrails: no guilt-trip notifications, no fake urgency, progress is
 never wiped, at most one notification a day by default.
 
-## Animation and tone
+## Animation and tone: five signature animations
 
 **Playful.** Celebrations, confetti, cute characters, satisfying sounds and mild comic reactions. Nothing tragic.
 
-- Check-off pop and the streak flame grows
-- A missed day with a freeze: an ice cube shields the flame
-- Streak ends: the flame shrugs, 'we go again'
+- Check-off: the tick pops and the streak flame grows a little
+- Missed day with a freeze: an ice cube drops over the flame, it shivers, 'we go again'
+- 7-day streak: the flame puts on sunglasses
+- Recovery mode: the flame does push-ups to build itself back up
+- 30-day streak: the flame turns into a tiny dragon that sneezes confetti
 
 **Line we don't cross:** Never sad or guilt-tripping about a broken streak.
 
