@@ -56,6 +56,16 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Next step | At 30 days, suggest adding or levelling up a habit |
 | Cadence | Daily |
 
+## Animation and tone
+
+**Playful.** Celebrations, confetti, cute characters, satisfying sounds and mild comic reactions. Nothing tragic.
+
+- Check-off pop and the streak flame grows
+- A missed day with a freeze: an ice cube shields the flame
+- Streak ends: the flame shrugs, 'we go again'
+
+**Line we don't cross:** Never sad or guilt-tripping about a broken streak.
+
 ## AI
 
 **None.** Not needed. Plain code does everything this app does.
