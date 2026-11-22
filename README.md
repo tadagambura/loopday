@@ -2,7 +2,7 @@
 
 **A tiny habit tracker that forgives you**
 
-> #11 of 33 in the build order · Easy · Revenue potential: Medium · Habits, Health & Learning
+> #5 of 33 · Wave 1: Daily keepers · Used: Daily · Easy · Revenue potential: Medium · Habits, Health & Learning
 
 ## What it is
 
@@ -55,6 +55,10 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Share | Streak milestone cards |
 | Next step | At 30 days, suggest adding or levelling up a habit |
 | Cadence | Daily |
+
+## AI
+
+**None.** Not needed. Plain code does everything this app does.
 
 ## Watch-outs
 
