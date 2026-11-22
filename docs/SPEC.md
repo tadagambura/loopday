@@ -1,60 +1,77 @@
 # LoopDay: Spec
 
-**Rank in portfolio:** #7 of 15 (easiest → hardest) · **Difficulty:** Easy
+**A tiny habit tracker that forgives you** · #11 of 33 in the build order · Easy · Revenue potential: Medium · Habits, Health & Learning · Source: ChatGPT + Perplexity
 
 ## One-liner
 
-A tiny habit tracker: checkboxes, streaks and nothing else.
+Track 3–10 habits with one tap a day. Streaks you can recover, a clean weekly view and simple stats. No social feed, no coaching, no clutter.
 
 ## Problem / audience
 
-- **Who it's for:** People who find habit apps overcomplicated.
-- **The problem it solves:** Most habit apps add coaching, social feeds and clutter. Some people just want checkboxes.
+- **Who it's for:** People who have tried and quit complicated habit apps.
+- **The problem it solves:** Most habit apps are overwhelming, and one missed day wipes out a streak along with the motivation.
+- **Example:** A user tracks water, walking, reading and no-scroll evenings, misses Tuesday, and uses a freeze to keep their streak.
 
 ## MVP features (ship with only these)
 
-1. 3 free habits, tick daily
-2. Streaks
-3. Daily reminder
-4. Simple stats (completion %)
+1. 3 free habits (up to 10 with premium)
+2. One-tap check-off and a weekly view
+3. Streaks with 'recovery mode' and earned freezes
+4. Reminders
+5. Simple completion stats
 
 ## Not in MVP
 
-- Unlimited habits (up to 10)
-- Premium stats and heatmaps
-- Home-screen widgets
+- Widgets and lock-screen shortcuts
+- Year heatmap
+- Themes
 
 ## Monetisation
 
 | Model | Detail |
 |---|---|
 | Free | 3 habits, with ads |
-| Paid | £1.99/month or lifetime £7.99 |
-| Ads | Banner on stats screen only |
+| Premium | £2.49/month or £24.99 lifetime: unlimited habits, stats, widgets, themes |
+| Ads | Banner on the stats screen only |
 
-Prices are starting points from the portfolio brief; test before committing.
+Prices are starting points; test before committing.
 
-## Platform & stack
+## Retention: The Progression Loop
 
-- **Platform:** Expo (needs notifications).
-- **Stack:** shared portfolio foundation (Expo, PostHog, RevenueCat, AdMob). See the portfolio roadmap.
-- **Data:** Device only.
+| Stage | Design |
+|---|---|
+| Cue | Daily reminder at a time the user picks |
+| Tiny win | One tap per habit |
+| Progress | Streaks, freezes, heatmap |
+| Share | Streak milestone cards |
+| Next step | At 30 days, suggest adding or levelling up a habit |
+| Cadence | Daily |
 
-## Growth engine hooks
+Follow the portfolio guardrails: no guilt-trip notifications, no fake urgency, progress is
+never wiped, at most one notification a day by default.
 
-- **Shareable output:** Streak cards and yearly heatmap.
+## Platform & data
+
+- **Platform:** Expo app.
+- **Data:** On the device only.
+- **Stack:** shared portfolio foundation (Expo, PostHog, RevenueCat, AdMob, shared Progression Loop module).
+
+## Growth engine
+
 - **Content pillars:** Tiny habits; Streak psychology; Routine ideas
+- **Shareable output:** Streak milestone cards
 
-## Notes
+## Risks
 
-Very crowded market; win on simplicity. Reuses the shared retention module from StackUp.
+Extremely crowded. It has to be noticeably simpler and kinder than the competition.
 
 ## Launch checklist
 
-- [ ] Name checked on App Store / Play Store / trademark search
+- [ ] Name checked on the App Store, Play Store and a trademark search
 - [ ] MVP features done and tested
-- [ ] Privacy policy + terms
+- [ ] Progression Loop wired (cue, tiny win, progress, milestone, next step)
+- [ ] Privacy policy and terms
 - [ ] Landing page
-- [ ] Analytics wired
+- [ ] Analytics wired (D1/D7/D30 retention)
 - [ ] Payments / ads wired
 - [ ] Added to growth-engine as an app config
