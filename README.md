@@ -2,7 +2,7 @@
 
 **A tiny habit tracker that forgives you**
 
-> #5 of 32 · Wave 1: Daily keepers · Used: Daily · Easy · Revenue potential: Medium · Habits, Health & Learning
+> #5 of 31 · Wave 1: Daily keepers · Used: Daily · Easy · Revenue potential: Medium · Habits, Health & Learning
 
 ## What it is
 
@@ -84,5 +84,5 @@ Planning. The build spec is in [`docs/SPEC.md`](docs/SPEC.md).
 
 ---
 
-Part of a portfolio of 32 small consumer apps that share one codebase, one retention module
+Part of a portfolio of 31 small consumer apps that share one codebase, one retention module
 and one marketing and upkeep system ([growth-maintenance-engine](https://github.com/tadagambura/growth-maintenance-engine)).
