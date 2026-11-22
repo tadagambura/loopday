@@ -1,6 +1,6 @@
 # LoopDay: Spec
 
-**A tiny habit tracker that forgives you** · #5 of 33 · Wave 1: Daily keepers · Used: Daily · Easy · Revenue potential: Medium · Habits, Health & Learning · Source: ChatGPT + Perplexity
+**A tiny habit tracker that forgives you** · #5 of 32 · Wave 1: Daily keepers · Used: Daily · Easy · Revenue potential: Medium · Habits, Health & Learning · Source: ChatGPT + Perplexity
 
 ## One-liner
 
