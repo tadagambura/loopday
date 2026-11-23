@@ -5,6 +5,7 @@ export const brand: Brand = {
   name: 'LoopDay',
   tagline: 'Tiny habits that forgive you',
   fonts: { display: 'Fredoka_600SemiBold' },
+  defaultTheme: 'sunset',
   radius: 22,
   light: {
     bg: '#FFF7EF',
