@@ -1,0 +1,647 @@
+{
+  "pack": "loopday-cards-1",
+  "version": 1,
+  "checked": "2026-11-23",
+  "reviewed": false,
+  "cards": [
+    {
+      "id": "c01",
+      "topic": "Systems",
+      "title": "Goals point, systems carry",
+      "body": "A goal is where you want to end up. A system is what you actually do every day. James Clear's big idea in Atomic Habits is that tiny, repeatable actions beat heroic bursts of effort. Winners and losers often share the same goal, after all. So alongside \"run a 10k\", decide what Tuesday looks like: shoes on, door, round the block.",
+      "quiz": {
+        "q": "What does Atomic Habits suggest matters most for lasting change?",
+        "options": [
+          "Setting a bigger goal",
+          "Waiting for motivation",
+          "The daily system of small actions"
+        ],
+        "answer": 2,
+        "explain": "Clear argues that small, repeated actions (your system) drive results more reliably than goals or bursts of motivation."
+      },
+      "source": {
+        "name": "Inspired by James Clear, Atomic Habits (2018)",
+        "url": "https://jamesclear.com/atomic-habits-summary"
+      },
+      "tags": [
+        "atomic habits",
+        "systems",
+        "basics"
+      ]
+    },
+    {
+      "id": "c02",
+      "topic": "Identity",
+      "title": "Be the person, not just the result",
+      "body": "Instead of \"I want to read more books\", try \"I'm a reader\". Clear's identity-based approach has two steps: decide who you want to become, then back it up with small wins. Read one page and you've acted like a reader today. Each tiny rep is a little receipt that says \"this is me now\". Enough receipts and you start believing it.",
+      "quiz": {
+        "q": "What are the two steps of identity-based habits?",
+        "options": [
+          "Decide who you want to be, then prove it with small wins",
+          "Set a deadline, then punish slip-ups",
+          "Copy a friend, then compare results"
+        ],
+        "answer": 0,
+        "explain": "Clear suggests choosing the identity first, then building belief through small, repeated actions that fit it."
+      },
+      "source": {
+        "name": "Inspired by James Clear, Atomic Habits (2018): identity-based habits",
+        "url": "https://jamesclear.com/identity-based-habits"
+      },
+      "tags": [
+        "atomic habits",
+        "identity"
+      ]
+    },
+    {
+      "id": "c03",
+      "topic": "Make it obvious",
+      "title": "Habit stacking",
+      "body": "Your existing routines are brilliant anchors. Habit stacking means attaching a new habit to one you already do: \"After I pour my morning coffee, I'll write one line in my journal.\" Clear credits the anchoring idea to BJ Fogg's Tiny Habits work. The old habit becomes the reminder, so you don't have to rely on remembering.",
+      "quiz": {
+        "q": "What's the formula for habit stacking?",
+        "options": [
+          "'When I feel like it, I will...'",
+          "'After [current habit], I will [new habit]'",
+          "'Next year, I will...'"
+        ],
+        "answer": 1,
+        "explain": "Linking a new habit to an existing one gives it a reliable cue, so it's easier to remember and repeat."
+      },
+      "source": {
+        "name": "Inspired by James Clear, Atomic Habits (2018): habit stacking (an idea Clear credits to BJ Fogg's Tiny Habits)",
+        "url": "https://jamesclear.com/habit-stacking"
+      },
+      "tags": [
+        "atomic habits",
+        "habit stacking",
+        "cues"
+      ]
+    },
+    {
+      "id": "c04",
+      "topic": "Make it obvious",
+      "title": "Name the time and the place",
+      "body": "\"I'll exercise more\" is a wish. \"I'll walk for 10 minutes at 1pm, from the office front door\" is a plan. Researchers call this an implementation intention: deciding in advance when and where you'll act. Clear highlights it because time and location are two of the strongest cues there are. Vague plans quietly evaporate.",
+      "quiz": null,
+      "source": {
+        "name": "Inspired by James Clear, Atomic Habits (2018): implementation intentions",
+        "url": "https://jamesclear.com/implementation-intentions"
+      },
+      "tags": [
+        "atomic habits",
+        "planning",
+        "cues"
+      ]
+    },
+    {
+      "id": "c05",
+      "topic": "Make it attractive",
+      "title": "Pair it with something you love",
+      "body": "Habits stick better when they're appealing. In Atomic Habits, Clear suggests linking a habit you need with something you enjoy. Favourite podcast only while you fold laundry. Fancy coffee only after your workout. Suddenly the dull bit comes with a treat attached, and your brain starts looking forward to it.",
+      "quiz": null,
+      "source": {
+        "name": "Inspired by James Clear, Atomic Habits (2018)",
+        "url": "https://jamesclear.com/atomic-habits-summary"
+      },
+      "tags": [
+        "atomic habits",
+        "motivation",
+        "attractive"
+      ]
+    },
+    {
+      "id": "c06",
+      "topic": "Make it easy",
+      "title": "The two-minute rule",
+      "body": "Scale a new habit down until it takes under two minutes. \"Do yoga\" becomes \"roll out the mat\". \"Read before bed\" becomes \"read one page\". It sounds almost silly, but Clear's point is that showing up is the habit you're really building. You can't improve a habit that doesn't exist yet. Master the start, then grow it.",
+      "quiz": {
+        "q": "Using the two-minute rule, 'go for a run' might become...",
+        "options": [
+          "Run a half marathon",
+          "Buy expensive running kit",
+          "Put your running shoes on"
+        ],
+        "answer": 2,
+        "explain": "The idea is to make starting so easy you can't say no. Once showing up is automatic, you can build from there."
+      },
+      "source": {
+        "name": "Inspired by James Clear, Atomic Habits (2018): the two-minute rule",
+        "url": "https://jamesclear.com/how-to-stop-procrastinating"
+      },
+      "tags": [
+        "atomic habits",
+        "two-minute rule",
+        "easy"
+      ]
+    },
+    {
+      "id": "c07",
+      "topic": "Make it satisfying",
+      "title": "Give yourself a gold star",
+      "body": "We repeat what feels good straight away, and many good habits only pay off later. Clear's fourth law is to make habits satisfying now: tick a box, colour in a calendar square, move a paperclip from one jar to another. Watching a streak grow is a tiny reward your brain genuinely enjoys. LoopDay's ticks count.",
+      "quiz": null,
+      "source": {
+        "name": "Inspired by James Clear, Atomic Habits (2018)",
+        "url": "https://jamesclear.com/atomic-habits-summary"
+      },
+      "tags": [
+        "atomic habits",
+        "tracking",
+        "rewards"
+      ]
+    },
+    {
+      "id": "c08",
+      "topic": "Environment",
+      "title": "Design your space, skip the willpower",
+      "body": "Clear describes leaving flossers in a bowl next to his toothbrush, and suddenly flossing every day. Your surroundings quietly nudge you all day long. Want to drink more water? Keep a filled bottle on your desk. Want to play guitar? Take it out of the case and leave it on a stand. Fewer steps between you and a good habit means less willpower needed.",
+      "quiz": {
+        "q": "What's the idea behind environment design?",
+        "options": [
+          "Arrange your surroundings so good habits are easier",
+          "Rely on willpower alone",
+          "Hide your habit tracker"
+        ],
+        "answer": 0,
+        "explain": "Visible cues and fewer steps make the good choice the easy choice, so you depend less on willpower."
+      },
+      "source": {
+        "name": "Inspired by James Clear, Atomic Habits (2018): environment design",
+        "url": "https://jamesclear.com/environment-design-organ-donation"
+      },
+      "tags": [
+        "atomic habits",
+        "environment",
+        "cues"
+      ]
+    },
+    {
+      "id": "c09",
+      "topic": "Breaking habits",
+      "title": "Flip the rules to break a habit",
+      "body": "Clear's four laws work in reverse for habits you want to drop: make the cue invisible, make it unattractive, make it difficult, make it unsatisfying. Phone in another room at bedtime. Snacks in a high cupboard. Log out of the app so getting back in takes effort. You're not weak. You're just removing the bait.",
+      "quiz": {
+        "q": "To break a bad habit, Atomic Habits suggests making it...",
+        "options": [
+          "More obvious",
+          "Invisible, unattractive, difficult and unsatisfying",
+          "Easier to do"
+        ],
+        "answer": 1,
+        "explain": "Inverting the four laws adds friction and removes cues, so the unwanted habit happens less often."
+      },
+      "source": {
+        "name": "Inspired by James Clear, Atomic Habits (2018)",
+        "url": "https://jamesclear.com/atomic-habits-summary"
+      },
+      "tags": [
+        "atomic habits",
+        "breaking habits"
+      ]
+    },
+    {
+      "id": "c10",
+      "topic": "Consistency",
+      "title": "Never miss twice",
+      "body": "Missed a day? Welcome to being human. Clear argues the first slip barely matters. It's the second one in a row that can start a new pattern. So the rule is simple: if you miss, get back on the very next chance, even with a tiny version. Two-minute walk, one press-up, one page. Streak broken, habit intact.",
+      "quiz": null,
+      "source": {
+        "name": "Inspired by James Clear, Atomic Habits (2018): avoid the second mistake",
+        "url": "https://jamesclear.com/second-mistake"
+      },
+      "tags": [
+        "atomic habits",
+        "consistency",
+        "slip-ups"
+      ]
+    },
+    {
+      "id": "c11",
+      "topic": "Evidence",
+      "title": "It takes longer than 21 days (and that's fine)",
+      "body": "Forget the 21-day myth. In a UCL study, people repeated a healthy behaviour daily in the same situation, and it took an average of about 66 days for it to feel automatic, with big differences between people and behaviours. UCL researchers suggest telling yourself to expect around 10 weeks. The good news? It gets easier as you go.",
+      "quiz": {
+        "q": "Roughly how long did it take on average for a daily habit to feel automatic in the UCL study?",
+        "options": [
+          "About 66 days",
+          "Exactly 21 days",
+          "About a year"
+        ],
+        "answer": 0,
+        "explain": "Automaticity levelled off around 66 days on average, with lots of variation. Expect roughly 10 weeks and be patient."
+      },
+      "source": {
+        "name": "Gardner, Lally and Wardle (2012), Making health habitual, British Journal of General Practice",
+        "url": "https://bjgp.org/content/62/605/664"
+      },
+      "tags": [
+        "evidence",
+        "habit formation",
+        "patience"
+      ]
+    },
+    {
+      "id": "c12",
+      "topic": "Evidence",
+      "title": "Same time, same place",
+      "body": "Psychologists define a habit as something your situation triggers automatically, like reaching for the seatbelt when you sit in the car. Researchers at UCL suggest a simple recipe: pick a small action, choose a time and place you hit every day, and repeat it there until it runs on autopilot. Consistency of context is the secret ingredient.",
+      "quiz": {
+        "q": "According to habit researchers, what turns an action into a habit?",
+        "options": [
+          "Doing it whenever you remember",
+          "Doing it once really intensely",
+          "Repeating it in the same context"
+        ],
+        "answer": 2,
+        "explain": "Repeating an action in a consistent context builds an automatic link between the situation and the behaviour."
+      },
+      "source": {
+        "name": "Gardner, Lally and Wardle (2012), Making health habitual, British Journal of General Practice",
+        "url": "https://bjgp.org/content/62/605/664"
+      },
+      "tags": [
+        "evidence",
+        "habit formation",
+        "cues"
+      ]
+    },
+    {
+      "id": "c13",
+      "topic": "Evidence",
+      "title": "One missed day won't ruin it",
+      "body": "Here's some research-backed relief. In the UCL habit study, missing the odd day didn't seriously damage habit formation. Progress picked up again after a single miss. So there's no need to bin the whole plan because of one chaotic Wednesday. Treat it as a blip, not a verdict on your character.",
+      "quiz": null,
+      "source": {
+        "name": "Gardner, Lally and Wardle (2012), Making health habitual, British Journal of General Practice",
+        "url": "https://bjgp.org/content/62/605/664"
+      },
+      "tags": [
+        "evidence",
+        "slip-ups",
+        "self-compassion"
+      ]
+    },
+    {
+      "id": "c14",
+      "topic": "Patience",
+      "title": "The boring middle bit",
+      "body": "Clear describes a frustrating stage he calls the plateau of latent potential. You're putting in the work, but nothing visible seems to happen, like heating an ice cube that won't melt until it finally hits zero. Effort isn't wasted, it's stored. Many \"overnight successes\" are just people who kept going through the dull stretch.",
+      "quiz": {
+        "q": "What does Clear call the stage where effort doesn't show results yet?",
+        "options": [
+          "The fresh start effect",
+          "The plateau of latent potential",
+          "The two-minute rule"
+        ],
+        "answer": 1,
+        "explain": "Clear uses this phrase for the period when progress is building but not yet visible. Keeping going through it is key."
+      },
+      "source": {
+        "name": "Inspired by James Clear, Atomic Habits (2018)",
+        "url": "https://jamesclear.com/atomic-habits"
+      },
+      "tags": [
+        "atomic habits",
+        "patience",
+        "motivation"
+      ]
+    },
+    {
+      "id": "c15",
+      "topic": "Self-compassion",
+      "title": "Kindness beats a telling-off",
+      "body": "It's tempting to think being harsh with yourself keeps you on track. Research suggests the opposite. In experiments by Breines and Chen, people encouraged to treat a mistake with self-compassion were more motivated to improve, and in one study studied longer after a failed test, than those given a self-esteem boost or nothing. Be your own coach, not your own critic.",
+      "quiz": {
+        "q": "In Breines and Chen's experiments, self-compassion after a mistake led to...",
+        "options": [
+          "Less effort",
+          "No difference at all",
+          "More motivation to improve"
+        ],
+        "answer": 2,
+        "explain": "Treating mistakes kindly made people more motivated to improve, not less. Self-compassion isn't letting yourself off the hook."
+      },
+      "source": {
+        "name": "Breines and Chen (2012), Self-compassion increases self-improvement motivation, Personality and Social Psychology Bulletin",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22645164/"
+      },
+      "tags": [
+        "self-compassion",
+        "evidence",
+        "motivation"
+      ]
+    },
+    {
+      "id": "c16",
+      "topic": "Fresh starts",
+      "title": "The fresh start effect",
+      "body": "Ever noticed you feel extra motivated on a Monday, the 1st of the month or after a birthday? Researchers Dai, Milkman and Riis found people searched for \"diet\" more, went to the gym more and set more goals after these \"temporal landmarks\". They seem to help us put past slip-ups behind us. Use them: pick your next landmark and start small.",
+      "quiz": {
+        "q": "Which of these is a 'temporal landmark' linked to the fresh start effect?",
+        "options": [
+          "The start of a new month",
+          "A random Thursday afternoon",
+          "Halfway through a film"
+        ],
+        "answer": 0,
+        "explain": "Fresh-start moments like a new week, month, year or birthday were linked with more goal-setting and gym visits."
+      },
+      "source": {
+        "name": "Dai, Milkman and Riis (2014), The fresh start effect, Management Science",
+        "url": "https://faculty.wharton.upenn.edu/wp-content/uploads/2014/06/Dai_Fresh_Start_2014_Mgmt_Sci.pdf"
+      },
+      "tags": [
+        "fresh start",
+        "motivation",
+        "evidence"
+      ]
+    },
+    {
+      "id": "c17",
+      "topic": "Sleep",
+      "title": "A regular bedtime is a habit too",
+      "body": "The NHS's number one sleep tip is a regular routine: going to bed and getting up at similar times, even on days off, helps your body know when it's time to sleep. It's a perfect habit-stack target. \"When my alarm says 10:30, I put my phone on charge in the kitchen.\" Future you, well rested, says thanks.",
+      "quiz": {
+        "q": "What's the NHS's first tip for better sleep?",
+        "options": [
+          "Keep a regular sleep routine",
+          "Have a big coffee at 9pm",
+          "Sleep in late at weekends to catch up"
+        ],
+        "answer": 0,
+        "explain": "Going to bed and waking up at similar times each day, even on days off, helps your body learn when to sleep."
+      },
+      "source": {
+        "name": "NHS Every Mind Matters: Fall asleep faster and sleep better",
+        "url": "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-fall-asleep-faster-and-sleep-better/"
+      },
+      "tags": [
+        "sleep",
+        "routine",
+        "nhs"
+      ]
+    },
+    {
+      "id": "c18",
+      "topic": "Movement",
+      "title": "150 minutes, any way you like",
+      "body": "The NHS advises adults to aim for at least 150 minutes of moderate activity a week (or 75 vigorous), plus strengthening activities on at least 2 days. That's only about 20 minutes a day. Brisk walks count. Spread it out, and break up long spells of sitting. If you've been inactive for a while or have a health condition, check with your GP first.",
+      "quiz": {
+        "q": "How much moderate activity does the NHS recommend for adults each week?",
+        "options": [
+          "At least 150 minutes",
+          "At least 30 minutes",
+          "At least 500 minutes"
+        ],
+        "answer": 0,
+        "explain": "Adults should aim for at least 150 minutes of moderate activity (or 75 vigorous) a week, plus strength work on 2 days."
+      },
+      "source": {
+        "name": "NHS: Physical activity guidelines for adults aged 19 to 64",
+        "url": "https://www.nhs.uk/live-well/exercise/physical-activity-guidelines-for-adults-aged-19-to-64/"
+      },
+      "tags": [
+        "movement",
+        "exercise",
+        "nhs"
+      ]
+    },
+    {
+      "id": "c19",
+      "topic": "Reading",
+      "title": "Swap scrolling for a chapter",
+      "body": "The NHS suggests putting phones, tablets and computers away for an hour before bed, and reading something you enjoy is one of its relaxing alternatives. That's a ready-made habit: book on your pillow (make it obvious), one page minimum (make it easy), tick it off (make it satisfying). You might fall asleep faster and finish more books. Double win.",
+      "quiz": null,
+      "source": {
+        "name": "NHS Every Mind Matters: Fall asleep faster and sleep better",
+        "url": "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-fall-asleep-faster-and-sleep-better/"
+      },
+      "tags": [
+        "reading",
+        "sleep",
+        "habit stacking"
+      ]
+    },
+    {
+      "id": "c20",
+      "topic": "Small wins",
+      "title": "Celebrate the tiny wins",
+      "body": "Mind suggests celebrating your successes, however small, and setting small goals so progress feels manageable. A ten-minute walk counts. So does tidying one drawer. Noticing wins builds the self-belief that keeps habits going, and it's a lot nicer than only noticing what you didn't do. Go on, give yourself some credit.",
+      "quiz": null,
+      "source": {
+        "name": "Mind: Tips to improve your self-esteem",
+        "url": "https://www.mind.org.uk/information-support/types-of-mental-health-problems/self-esteem/tips-to-improve-your-self-esteem/"
+      },
+      "tags": [
+        "small wins",
+        "self-esteem",
+        "motivation"
+      ]
+    },
+    {
+      "id": "c21",
+      "topic": "How habits work",
+      "title": "Cue, craving, response, reward",
+      "body": "Clear breaks every habit into a loop: a cue (your phone buzzes), a craving (you want to know who it is), a response (you check it) and a reward (curiosity satisfied). Spot the loop in a habit you'd like to change. Which part could you tweak? Often it's easiest to start with the cue.",
+      "quiz": {
+        "q": "In Clear's habit loop, what comes first?",
+        "options": [
+          "The reward",
+          "The cue",
+          "The response"
+        ],
+        "answer": 1,
+        "explain": "A cue triggers a craving, which leads to a response and a reward. Changing the cue is often the easiest place to start."
+      },
+      "source": {
+        "name": "Inspired by James Clear, Atomic Habits (2018): cue, craving, response, reward",
+        "url": "https://jamesclear.com/three-steps-habit-change"
+      },
+      "tags": [
+        "atomic habits",
+        "habit loop"
+      ]
+    },
+    {
+      "id": "c22",
+      "topic": "Evidence",
+      "title": "Start with a simple habit",
+      "body": "In the UCL study, simple actions like drinking a glass of water became automatic faster than more involved routines like doing sit-ups. So if you're building your first habit in a while, pick something small and simple. Once one habit is running smoothly, stack the next on top. Confidence compounds too.",
+      "quiz": {
+        "q": "In the UCL study, which kind of habit became automatic faster?",
+        "options": [
+          "Long, complicated routines",
+          "Simple actions like drinking water",
+          "Ones done only at weekends"
+        ],
+        "answer": 1,
+        "explain": "Simpler behaviours reached automaticity faster than more elaborate ones. Starting simple builds momentum."
+      },
+      "source": {
+        "name": "Gardner, Lally and Wardle (2012), Making health habitual, British Journal of General Practice",
+        "url": "https://bjgp.org/content/62/605/664"
+      },
+      "tags": [
+        "evidence",
+        "habit formation",
+        "easy"
+      ]
+    },
+    {
+      "id": "c23",
+      "topic": "Sleep",
+      "title": "Park your worries before bed",
+      "body": "Lying awake running through tomorrow's to-do list? The NHS suggests writing down your worries, or making a list of things you need to do tomorrow, before you go to sleep. It's a lovely two-minute habit to stack onto brushing your teeth. Your brain can stop holding everything when the paper's holding it instead.",
+      "quiz": null,
+      "source": {
+        "name": "NHS Every Mind Matters: Fall asleep faster and sleep better",
+        "url": "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-fall-asleep-faster-and-sleep-better/"
+      },
+      "tags": [
+        "sleep",
+        "worry",
+        "routine"
+      ]
+    },
+    {
+      "id": "c24",
+      "topic": "Sleep",
+      "title": "Watch the late caffeine",
+      "body": "Tea, coffee and some soft drinks contain caffeine, which can make it harder to fall asleep if you have them close to bedtime. The NHS suggests swapping to a warm milky drink or herbal tea in the evening, and avoiding alcohol and nicotine for 1 to 2 hours before bed. Easy environment design: put the decaf at the front of the cupboard.",
+      "quiz": {
+        "q": "What does the NHS suggest instead of caffeinated drinks near bedtime?",
+        "options": [
+          "An energy drink",
+          "A warm milky drink or herbal tea",
+          "A strong espresso"
+        ],
+        "answer": 1,
+        "explain": "Caffeine can make you feel more awake, so the NHS suggests caffeine-free options like herbal tea in the evening."
+      },
+      "source": {
+        "name": "NHS Every Mind Matters: Fall asleep faster and sleep better",
+        "url": "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-fall-asleep-faster-and-sleep-better/"
+      },
+      "tags": [
+        "sleep",
+        "caffeine",
+        "nhs"
+      ]
+    },
+    {
+      "id": "c25",
+      "topic": "Sleep",
+      "title": "The 20-minute rule for sleep",
+      "body": "Can't sleep? Don't wrestle with it. The NHS suggests that if you're still awake after about 20 minutes, get up, sit somewhere comfortable and do something relaxing, like gentle stretching, reading or quiet music, then go back to bed when you feel sleepy. Your bed should feel like a place for sleep, not a battleground.",
+      "quiz": {
+        "q": "If you can't sleep after about 20 minutes, the NHS suggests...",
+        "options": [
+          "Get up and do something relaxing until you feel sleepy",
+          "Scroll social media in bed",
+          "Do an intense workout"
+        ],
+        "answer": 0,
+        "explain": "Getting up for a calm activity and returning when sleepy helps stop bed becoming linked with frustration."
+      },
+      "source": {
+        "name": "NHS Every Mind Matters: Fall asleep faster and sleep better",
+        "url": "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-fall-asleep-faster-and-sleep-better/"
+      },
+      "tags": [
+        "sleep",
+        "insomnia",
+        "nhs"
+      ]
+    },
+    {
+      "id": "c26",
+      "topic": "Movement",
+      "title": "Break up the sitting",
+      "body": "The NHS adult guidelines include reducing time spent sitting or lying down, and breaking up long periods of not moving. Perfect for habit stacking: \"After every meeting, I'll stand and stretch.\" \"When the kettle's on, I'll walk round the kitchen.\" Small movement snacks add up across a day.",
+      "quiz": null,
+      "source": {
+        "name": "NHS: Physical activity guidelines for adults aged 19 to 64",
+        "url": "https://www.nhs.uk/live-well/exercise/physical-activity-guidelines-for-adults-aged-19-to-64/"
+      },
+      "tags": [
+        "movement",
+        "habit stacking",
+        "nhs"
+      ]
+    },
+    {
+      "id": "c27",
+      "topic": "Movement",
+      "title": "Strength counts too",
+      "body": "Cardio gets the headlines, but the NHS recommends strengthening activities that work all the major muscle groups on at least 2 days a week. That might be yoga, carrying heavy shopping, gardening or body-weight moves like squats. Two-minute rule version: one set of squats while the toast is on.",
+      "quiz": {
+        "q": "How often does the NHS recommend strengthening activities for adults?",
+        "options": [
+          "Once a month",
+          "At least 2 days a week",
+          "Only if you're training for a sport"
+        ],
+        "answer": 1,
+        "explain": "Adults should do muscle-strengthening activities on at least 2 days a week, alongside regular aerobic activity."
+      },
+      "source": {
+        "name": "NHS: Physical activity guidelines for adults aged 19 to 64",
+        "url": "https://www.nhs.uk/live-well/exercise/physical-activity-guidelines-for-adults-aged-19-to-64/"
+      },
+      "tags": [
+        "movement",
+        "strength",
+        "nhs"
+      ]
+    },
+    {
+      "id": "c28",
+      "topic": "Fresh starts",
+      "title": "You don't have to wait for January",
+      "body": "The fresh start research found motivation bumps around lots of landmarks, not just New Year: the start of a week, a month, a term, a birthday or a holiday. So if you've slipped, you don't need to write off the year. Next Monday is a perfectly good fresh start. So, frankly, is tomorrow morning.",
+      "quiz": null,
+      "source": {
+        "name": "Dai, Milkman and Riis (2014), The fresh start effect, Management Science",
+        "url": "https://faculty.wharton.upenn.edu/wp-content/uploads/2014/06/Dai_Fresh_Start_2014_Mgmt_Sci.pdf"
+      },
+      "tags": [
+        "fresh start",
+        "motivation",
+        "slip-ups"
+      ]
+    },
+    {
+      "id": "c29",
+      "topic": "Wellbeing",
+      "title": "Make connection a habit",
+      "body": "Connecting with other people is one of the NHS's 5 steps to mental wellbeing. Build it like any habit: a regular time to eat together, a weekly call to a friend, chatting to a colleague instead of emailing. The NHS also suggests not relying on texts and social media alone. Habit stack idea: \"On my Sunday walk, I'll ring someone.\"",
+      "quiz": null,
+      "source": {
+        "name": "NHS: 5 steps to mental wellbeing",
+        "url": "https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/five-steps-to-mental-wellbeing/"
+      },
+      "tags": [
+        "connection",
+        "wellbeing",
+        "nhs"
+      ]
+    },
+    {
+      "id": "c30",
+      "topic": "Wellbeing",
+      "title": "Learn a little, often",
+      "body": "Learning new skills is another of the NHS's 5 steps to mental wellbeing, linked with boosting confidence and a sense of purpose. It doesn't need to be a degree. Ten minutes of a language app, a new recipe a week, one YouTube lesson on fixing a bike. Use the two-minute rule to start, and let curiosity do the rest.",
+      "quiz": null,
+      "source": {
+        "name": "NHS: 5 steps to mental wellbeing",
+        "url": "https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/five-steps-to-mental-wellbeing/"
+      },
+      "tags": [
+        "learning",
+        "wellbeing",
+        "nhs"
+      ]
+    }
+  ]
+}
