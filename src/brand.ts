@@ -5,7 +5,7 @@ export const brand: Brand = {
   name: 'LoopDay',
   tagline: 'Tiny habits that forgive you',
   fonts: { display: 'Fredoka_600SemiBold' },
-  defaultTheme: 'sunset',
+  defaultTheme: 'orange',
   radius: 22,
   light: {
     bg: '#FFF7EF',
@@ -39,10 +39,6 @@ export const brand: Brand = {
     danger: '#FF8A80',
     focus: '#FF8A4C',
   },
-  plans: [
-    { id: 'yearly', label: 'Yearly', price: '£24.99 a year', note: 'Best value: about £2.08 a month' },
-    { id: 'monthly', label: 'Monthly', price: '£3.49 a month' },
-  ],
   premiumPerks: ['Up to 10 habits (free has 3)', 'Full stats and the year heatmap', 'Themes and home-screen widgets as they launch', 'No ads, ever'],
   privacyUrl: 'https://kaoticchainz.com/privacy',
   termsUrl: 'https://kaoticchainz.com/terms',
