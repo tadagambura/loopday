@@ -1,8 +1,8 @@
 # LoopDay
 
-**A tiny habit tracker that forgives you**
+**Tiny habits that forgive you: move, read, anything**
 
-> #5 of 31 · Wave 1: Daily keepers · Used: Daily · Easy · Revenue potential: Medium · Habits, Health & Learning
+> #5 of 16 · Wave 1: Daily keepers · Used: Daily · Easy · Revenue potential: Medium · Habits, Health & Learning
 
 ## What it is
 
@@ -25,6 +25,7 @@ People who have tried and quit complicated habit apps.
 - Streaks with 'recovery mode' and earned freezes
 - Reminders
 - Simple completion stats
+- Habit types with their own tracking: reading (pages, books, yearly goal) and moving (walks, run/walk plans)
 
 **Example:** A user tracks water, walking, reading and no-scroll evenings, misses Tuesday, and uses a freeze to keep their streak.
 
@@ -62,11 +63,11 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 
 **Playful.** Celebrations, confetti, cute characters, satisfying sounds and mild comic reactions. Nothing tragic.
 
-- Check-off: the tick pops and the streak flame grows a little
-- Missed day with a freeze: an ice cube drops over the flame, it shivers, 'we go again'
-- 7-day streak: the flame puts on sunglasses
-- Recovery mode: the flame does push-ups to build itself back up
-- 30-day streak: the flame turns into a tiny dragon that sneezes confetti
+- Check-off: the tick pops and the streak flame grows
+- Missed day with a freeze: an ice cube drops over the flame
+- Skipped reading: the page rips in half, then gets taped back
+- 7 days: the flame puts on sunglasses
+- 30 days: the flame turns into a tiny dragon that sneezes confetti
 
 **Line we don't cross:** Never sad or guilt-tripping about a broken streak.
 
@@ -84,5 +85,5 @@ Planning. The build spec is in [`docs/SPEC.md`](docs/SPEC.md).
 
 ---
 
-Part of a portfolio of 31 small consumer apps that share one codebase, one retention module
+Part of a portfolio of 16 small consumer apps that share one codebase, one retention module
 and one marketing and upkeep system ([growth-maintenance-engine](https://github.com/tadagambura/growth-maintenance-engine)).
