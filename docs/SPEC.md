@@ -1,6 +1,6 @@
 # LoopDay: Spec
 
-**Tiny habits that forgive you: move, read, anything** · #5 of 15 · Wave 1: Daily keepers · Used: Daily · Easy · Revenue potential: Medium · Habits, Health & Learning · Source: ChatGPT + Perplexity (absorbs PageStreak and RunStreak)
+**Tiny habits that forgive you: move, read, anything** · #5 of 17 · Wave 1: Daily keepers · Used: Daily · Easy · Revenue potential: Medium · Habits, Health & Learning · Source: ChatGPT + Perplexity (absorbs PageStreak and RunStreak)
 
 ## One-liner
 
