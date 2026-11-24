@@ -1,0 +1,134 @@
+{
+  "app": "loopday",
+  "title": "Habit Arcade",
+  "emoji": "🧊",
+  "currency": {
+    "name": "Ice cubes",
+    "one": "ice cube",
+    "emoji": "🧊"
+  },
+  "unlocks": "streak shields that protect your habits, and new avatars",
+  "games": [
+    {
+      "id": "ice-rescue",
+      "name": "Ice Rescue",
+      "emoji": "🧊",
+      "mechanic": "memory",
+      "tier": "free",
+      "how": "Flip the ice blocks and match each habit to its emoji to free the cubes.",
+      "teaches": "Picture your habits clearly and they're easier to do.",
+      "seconds": 45,
+      "flagship": true,
+      "pack": {
+        "file": "loopday/ice-rescue.48fe2c2786.json",
+        "sha256": "48fe2c27864042fe82bd437003f5a0042c20845fb8ac4f3d0fa8e7d221163d86",
+        "bytes": 168
+      }
+    },
+    {
+      "id": "memory-loop",
+      "name": "Memory Loop",
+      "emoji": "🔁",
+      "mechanic": "sequence",
+      "tier": "free",
+      "how": "Watch the loop light up, then repeat it. It gets longer each time.",
+      "teaches": "Working memory grows with gentle, regular practice.",
+      "seconds": 45,
+      "pack": {
+        "file": "loopday/memory-loop.37cf79f77f.json",
+        "sha256": "37cf79f77f401e004612a371961c63411281671b8f09dc7510653d9a804c1943",
+        "bytes": 137
+      }
+    },
+    {
+      "id": "habit-match",
+      "name": "Habit Match",
+      "emoji": "🎯",
+      "mechanic": "quiz",
+      "tier": "free",
+      "how": "Match each habit to the benefit it builds.",
+      "teaches": "Knowing why helps you keep going on the hard days.",
+      "seconds": 45,
+      "pack": {
+        "file": "loopday/habit-match.b2671357a3.json",
+        "sha256": "b2671357a35dfc2eab031465f6830fce7a4ec9be1187fb32596b04f8a2b6e5b8",
+        "bytes": 952
+      }
+    },
+    {
+      "id": "routine-builder",
+      "name": "Routine Builder",
+      "emoji": "🗓️",
+      "mechanic": "order",
+      "tier": "arcade",
+      "how": "Put the routine in the order that makes it stick.",
+      "teaches": "Habit stacking: hook a new habit onto one you already do.",
+      "seconds": 45,
+      "pack": {
+        "file": "loopday/routine-builder.e918d08bcf.json",
+        "sha256": "e918d08bcf09684411d3c9f32e61064d89ad8efdd8eb90e271f0b5daf8bbcfd6",
+        "bytes": 481
+      }
+    },
+    {
+      "id": "focus-flow",
+      "name": "Focus Flow",
+      "emoji": "🎯",
+      "mechanic": "catch",
+      "tier": "arcade",
+      "how": "Catch the focus boosters, dodge the distractions.",
+      "teaches": "Distractions you can see are distractions you'll reach for.",
+      "seconds": 45,
+      "pack": {
+        "file": "loopday/focus-flow.b31e8cd279.json",
+        "sha256": "b31e8cd2797996a17b42a64046a84461fd528a330c6580497e57cbaaeb7123f3",
+        "bytes": 329
+      }
+    },
+    {
+      "id": "helps-or-hinders",
+      "name": "Streak Sprint",
+      "emoji": "🏃",
+      "mechanic": "sort",
+      "tier": "arcade",
+      "how": "Does this make the habit easier or harder? Sort it fast.",
+      "teaches": "Design your surroundings so the good choice is the easy one.",
+      "seconds": 45,
+      "pack": {
+        "file": "loopday/helps-or-hinders.a65ba15aeb.json",
+        "sha256": "a65ba15aeb482d7d18be25e4e4c4c778b4c3ae46421ca9e0536fef9a3a2a87c7",
+        "bytes": 876
+      }
+    },
+    {
+      "id": "daily-dash",
+      "name": "Daily Dash",
+      "emoji": "⚡",
+      "mechanic": "quiz",
+      "tier": "arcade",
+      "how": "Rapid habit facts. How many can you get?",
+      "teaches": "What the research says about building habits.",
+      "seconds": 45,
+      "pack": {
+        "file": "loopday/daily-dash.c8f678e136.json",
+        "sha256": "c8f678e1368b9ba8f945555902470feb480a2130cbf2f4afe3f91cecec24461d",
+        "bytes": 1176
+      }
+    },
+    {
+      "id": "consistency-climb",
+      "name": "Consistency Climb",
+      "emoji": "🧗",
+      "mechanic": "stack",
+      "tier": "arcade_subscription",
+      "how": "Drop each ice block to build the tallest tower you can.",
+      "teaches": "Consistency beats intensity: small reps stack up.",
+      "seconds": 45,
+      "pack": {
+        "file": "loopday/consistency-climb.efe6396775.json",
+        "sha256": "efe639677573f48e878c48b30742fa1fab2037b2e50da60ac08f5581b6bb2ccf",
+        "bytes": 113
+      }
+    }
+  ]
+}
