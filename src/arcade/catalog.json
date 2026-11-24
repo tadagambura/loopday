@@ -120,7 +120,7 @@
       "name": "Consistency Climb",
       "emoji": "🧗",
       "mechanic": "stack",
-      "tier": "arcade_subscription",
+      "tier": "arcade",
       "how": "Drop each ice block to build the tallest tower you can.",
       "teaches": "Consistency beats intensity: small reps stack up.",
       "seconds": 45,
