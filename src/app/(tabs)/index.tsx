@@ -13,6 +13,8 @@ import { FREE_HABITS } from '@/brand';
 import { Flame } from '@/components/Flame';
 import { useLog } from '@/components/useLog';
 import { useHabits } from '@/state/habits';
+import '@/arcade';
+import { ArcadeEntry } from '@/kit/arcade/screens';
 
 const STARTERS: Omit<Habit, 'id' | 'created'>[] = [
   { name: 'Drink water', emoji: '💧', kind: 'simple', days: EVERY_DAY },
@@ -206,6 +208,7 @@ export default function Today() {
       )}
       <AmountSheet h={amountFor} onClose={() => setAmountFor(null)} />
       <PaywallSheet visible={paywall} onClose={() => setPaywall(false)} reason={`Free LoopDay tracks ${FREE_HABITS} habits. Premium goes up to 10.`} />
+      <ArcadeEntry />
     </Screen>
   );
 }
