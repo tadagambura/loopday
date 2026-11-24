@@ -1,5 +1,6 @@
 import { router } from 'expo-router';
 import { Text } from 'react-native';
+import { AdBanner } from '@/kit/ads';
 import { addDays, todayKey } from '@/kit/dates';
 import { Card, EmptyState, H1, Muted, ProgressBar, Row, Screen, Section, Stack, Stat, Strong } from '@/kit/ui';
 import { completion, heatmap, streakFor } from '@/domain/habits';
@@ -16,7 +17,7 @@ export default function Stats() {
   const done = per.reduce((a, x) => a + x.c.done, 0);
   const ticks = Object.values(s.logs).reduce((a, l) => a + Object.keys(l).length, 0);
   return (
-    <Screen testID="stats">
+    <Screen testID="stats" banner={<AdBanner placement="stats_banner" />}>
       <H1>Stats</H1>
       <Card tone="alt">
         <Row>
