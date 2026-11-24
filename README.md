@@ -40,7 +40,9 @@ People who have tried and quit complicated habit apps.
 | Model | Detail |
 |---|---|
 | Free | 3 habits, with ads |
-| Premium | £24.99/year (shown first) or £3.49/month, plus a lifetime price to test: unlimited habits, stats, widgets, themes |
+| Premium | £34.99/year (shown first) or £3.49/month: unlimited habits, stats, widgets, themes, every Arcade game in the app |
+| Arcade games | £0.99 each, kept forever, or every game in the app with Premium |
+| KC All Access | £25 once (every Arcade game in every KC app, kept forever) plus £7.99/month or £79.99/year (Premium in every KC app). Needs a free KC account. |
 | Ads | Banner on the stats screen only |
 
 **Portfolio premium promise:** free has ads; the moment you pay you get no ads, cloud backup and storage, and sync across your devices, plus this app's extras.
